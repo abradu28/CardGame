@@ -1,0 +1,46 @@
+Regulile jocului "Minti":
+
+        "Minti" este bazat in mare parte pe regulile jocului Texas Hold'em Poker, unde la inceput un jucator primeste o carte si daca el este la inceput trebuie  sa spuna 
+o carte din mana sa, sau ce carte ar crede el ca au ceilalti jucatori de exemplu: daca jucatorul incepe el poate sa zica orice, iar prin "orice" se intelege:
+
+	-o carte de la 2, 3, 4.., J, Q, K, A
+	-pereche - perechea consta in a avea doua carti cu acelasi numar, culori si simboluri diferite de exemplu: 2 carti de 2 una fiind de inima rosie, alta de trefla,
+	 2 carti	de J una fiind de inima neagra si una de trefla
+	-"three of a kind" sau cui- consta in a avea trei carti cu acelasi numar, culori si simboluri diferite de exemplu: 3 carti de 8 una fiind de romb, una fiind de inima
+	neagra, una fiind de inima rosie etc.
+	-careu- consta in a avea patru carti cu acelasi numar, culori si simboluri diferitede exemplu: 4 carti de A.
+	
+Reguli:
+
+	-stim ca in joc sunt doar 4 simboluri fiecare carte nu se repeta ca si simbol, adica nu pot exista doua carti de 5 care sa fie de inima rosie, trebuie sa existe o
+	carte din fiecare categorie, un 5 de romb, un 5 de inima rosie, un 5 de inima neagra, un 5 de trefla, s.a.m.d, in total trebuie sa fie un total de 52 de carti.
+
+	- valoarea cartilor este in aceasta ordine: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A
+
+	- daca un jucator crede ca din cartile distribuite, mana spusa de jucator de dinaintea lui atunci el poate sa spuna "minti" si daca jucatorul a crezut bine,
+	jucatorul de dinaintea lui trebuie sa o carte, pe scurt un jucator capata o carte in  plus pentru mana urmatoare daca a mintit, sau cel care a zis "minti" si nu 
+	a avut dreptate, va trage si el o carte
+
+        - jucatorul care ajunge la 6 carti este eliminat
+
+	- un jucator intotdeauna trebuie sa zica o mana de joc mai mare decat un jucator anterior de exemplu nu poate sa zica 4 daca jucatorul de dinaintea lui a zis A,
+	si tot asa, daca in joc lumea spune pereche, trebuie mers pe perechi mai mari, sau  maini mai mari. 
+
+	- valoarea mainilor de carti: o carte< o pereche< doua perechi< un "three of a kind" < doua "three of a kind"< careu  
+
+	- daca un jucator a zis ca exista un A, urmatorul jucator trebuie sa zica o pereche de orice carte,  doua perechi de orice carti, "three of a kind" din orice
+	carte, doua "three of a kind" din orice carti, careu din orice carte
+
+	- daca un jucator a zis ca exista  o pereche el A, urmatorul jucator trebuie sa zica, doua perechi de orice carti, "three of a kind" din orice carte, doua "three
+	of a kind" din orice carti, careu din orice carte
+
+	- daca un jucator a zis ca exista o pereche de K si o pereche de A, urmatorul jucator trebuie sa zica, "three of a kind" din orice carte, doua "three of a kind"
+	din orice carti, careu din orice carte
+
+	- daca un jucator a zis ca exista "three of a kind" de A, urmatorul jucator trebuie sa zica, doua "three of a kind" din orice carti, careu din orice carte
+
+	- daca un jucator a zis ca exista doua "three of a kind" de A, respectiv de K, urmatorul jucator trebuie sa zica, careu din orice carte
+
+	- cea mai mare mana posibila este careu de A
+
+
